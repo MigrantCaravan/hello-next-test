@@ -4,6 +4,7 @@ function Home() {
   return (
     <main>
       <h1>Hello Next!</h1>
+      <h2>from Mai</h2>
     </main>
   );
 }
